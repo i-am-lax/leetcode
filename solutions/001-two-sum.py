@@ -22,6 +22,7 @@ class Solution:
                 record[nums[idx]] = idx
 
 
+
 s = Solution()
 assert set(s.twoSum(nums=[2, 7, 11, 15], target=9)) == {0, 1}
 assert set(s.twoSum(nums=[3, 2, 4], target=6)) == {1, 2}
