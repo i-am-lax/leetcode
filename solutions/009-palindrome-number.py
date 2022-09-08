@@ -1,5 +1,6 @@
 """
-Palindrome Number
+Palindrome Number (https://leetcode.com/problems/palindrome-number/)
+Difficulty: Easy
 """
 
 
